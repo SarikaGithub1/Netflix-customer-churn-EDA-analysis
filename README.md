@@ -1,6 +1,6 @@
 # 🎬 Netflix Customer Churn EDA Analysis
 
-This project dives into churn behavior among Netflix-style streaming users, using a rich dataset of 5,000 customers. By examining demographics, subscription types, usage habits, login patterns, and preferences, we aim to uncover what keeps customers hooked — and what drives them away.
+This project dives into churn behavior among Netflix-style streaming users, using a rich dataset of 5,000 customers. By examining age, gender, subscription types, device, region, favourite genres, etc. we aim to uncover what keeps customers hooked — and what drives them away.
 
 ---
 
